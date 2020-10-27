@@ -1,0 +1,19 @@
+{
+  "name": "e06-bonus",
+  "version": "1.0.0",
+  "description": "s04e06-Bonus - Private Members using private keyword/notation `#`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-stage-3": "^7.8.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7"
+  }
+}
